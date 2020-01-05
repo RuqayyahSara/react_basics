@@ -1,0 +1,28 @@
+
+html, body {
+  height:100%;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 25px;
+}
+
+html {
+  background: url('https://pics.filmaffinity.com/Friends_TV_Series-193184380-large.jpg') fixed;
+  background-size: 100%;
+}
+.fullscreen {
+  height: 100%;
+}
+  .fullscreen .Header {
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color: rgb(233, 15, 106);
+    text-shadow: 2px 4px 2px rgb(255, 251, 253);
+  }
+.Body {
+  background: rgba(255, 255, 255, .5);
+  padding: 0 8%;
+}
+
+
+
